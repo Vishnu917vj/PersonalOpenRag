@@ -295,7 +295,6 @@ Ask questions against your indexed knowledge base.
 ```json
 {
     "message": "What's your name?",
-    "namespace": "default"
 }
 ```
 
