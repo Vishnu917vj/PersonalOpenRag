@@ -17,7 +17,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",      # local Next.js
         "https://your-frontend.vercel.app", 
-        "https://personal-rag-web.vercel.app/",# production frontend
+        "https://personal-rag-web.vercel.app",# production frontend
     ],
     allow_credentials=True,
     allow_methods=["*"],
